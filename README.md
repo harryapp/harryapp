@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am at my third year studying Bachelor's in Information Technology & Programming at Kristiania University College
 
-I am currently looking for a job as a developer. Feel free to contact me.
+🌱 Currently learning: C, DevOps, Microservices architecture, Cloud Security 
 <br>
 <br>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harry-liam-a896a2206/)
@@ -54,13 +54,4 @@ Here is an overview of my exam deliveries so far.
 - [Web Development and API Design](link)
 - [Android Programming](https://github.com/harryapp/android_exam)
 - [Agile Project ](https://github.com/harryapp/meliora_impact_app)
-
-#### Fifth Semester (In progress)
-- Enterprise Programming 2
-- DevOps
-- C programming in Linux
-- Cloud Security
-
-#### Sixth Semester (Next semester)
-- Bachelor's thesis 
 
