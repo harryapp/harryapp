@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am at my third year studying Bachelor's in Information Technology & Programming at Kristiania University College
 
-🌱 Currently learning: C, DevOps, Microservices architecture, Cloud Security 
+🌱 Currently learning: C, DevOps, Microservice architecture, Cloud Security 
 <br>
 <br>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harry-liam-a896a2206/)
