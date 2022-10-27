@@ -4,7 +4,6 @@ I am at my third year studying Bachelor's in Information Technology & Programmin
 🌱 Currently learning: C, DevOps, Microservice architecture, Cloud Security 
 <br>
 <br>
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harry-liam-a896a2206/)
 
 ---
 
@@ -46,7 +45,7 @@ Here is an overview of my exam deliveries so far.
 #### Third Semester
 - [Software Design ](https://github.com/harryapp/PG332_SoftwareDesign_EksamenH21)
 - [Algorithms and Data Structure](https://github.com/harryapp/Exam-PG4200-Algorithms-and-Data-Structures)
-- [Advance Java Programming](link)
+- [Advance Java Programming](https://github.com/harryapp/Exam-PGR203-Advanced-Java-Programming)
 - [Agile Project](https://github.com/harryapp/meliora_impact_app)
 
 #### Fourth Semester
